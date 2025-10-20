@@ -2,7 +2,7 @@
 
 I’m Paula, a newcomer frontend developer.
 
-My latest project is the app How Long to Watch…, created after I got tired of manually calculating time and time again by when I would finish a 2000s TV show with 6+ seasons my friends and I decided to watch at that moment. Now things are much easier. You can take a look at it [here](https://github.com/alcantara-paula/how-long-to-watch). 
+My latest project is the app How Long to Watch…, created after I got tired of manually calculating time and time again by when I would finish a 2000s TV show with 6+ seasons my friends and I decided to watch at that moment. Now things are much easier. You can take a look at it [here](https://github.com/alcantarapaula/how-long-to-watch). 
 
 
 ## Skills
@@ -12,7 +12,7 @@ My latest project is the app How Long to Watch…, created after I got tired of 
 
 ##
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/alcantara-paula/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/alcantarapaula/).
 
 
 <!--
